@@ -21,7 +21,8 @@ BLEU => 28.87
 
 ChrF => 60.37 
 
-Observations: 
+
+**Observations:**
 
 Translation Quality: The model produces grammatically correct and semantically appropriate translations most of the time, though word choices sometimes differ from the reference.
 
